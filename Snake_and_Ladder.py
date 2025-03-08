@@ -35,4 +35,4 @@ if __name__ == '__main__':
         result = game.play()
         for move in result:
             print(move)
-        print()  # Add a blank line between game outputs
+        print()
